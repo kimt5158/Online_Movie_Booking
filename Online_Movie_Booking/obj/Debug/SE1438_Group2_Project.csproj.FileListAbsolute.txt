@@ -1,0 +1,14 @@
+E:\prn9\SE1438_G2_Project\SE1438_Group2_Project\bin\SE1438_Group2_Project.dll.config
+E:\prn9\SE1438_G2_Project\SE1438_Group2_Project\bin\SE1438_Group2_Project.dll
+E:\prn9\SE1438_G2_Project\SE1438_Group2_Project\bin\SE1438_Group2_Project.pdb
+E:\prn9\SE1438_G2_Project\SE1438_Group2_Project\obj\Debug\SE1438_Group2_Project.csproj.CoreCompileInputs.cache
+E:\prn9\SE1438_G2_Project\SE1438_Group2_Project\obj\Debug\SE1438_Group2_Project.dll
+E:\prn9\SE1438_G2_Project\SE1438_Group2_Project\obj\Debug\SE1438_Group2_Project.pdb
+E:\prn9\SE1438_G2_Project\SE1438_Group2_Project\obj\Debug\SE1438_Group2_Project.csproj.AssemblyReference.cache
+E:\prn9\SE1438_Group2_Project\SE1438_Group2_Project\bin\SE1438_Group2_Project.dll.config
+E:\prn9\SE1438_Group2_Project\SE1438_Group2_Project\bin\SE1438_Group2_Project.dll
+E:\prn9\SE1438_Group2_Project\SE1438_Group2_Project\bin\SE1438_Group2_Project.pdb
+E:\prn9\SE1438_Group2_Project\SE1438_Group2_Project\obj\Debug\SE1438_Group2_Project.csproj.AssemblyReference.cache
+E:\prn9\SE1438_Group2_Project\SE1438_Group2_Project\obj\Debug\SE1438_Group2_Project.csproj.CoreCompileInputs.cache
+E:\prn9\SE1438_Group2_Project\SE1438_Group2_Project\obj\Debug\SE1438_Group2_Project.dll
+E:\prn9\SE1438_Group2_Project\SE1438_Group2_Project\obj\Debug\SE1438_Group2_Project.pdb
